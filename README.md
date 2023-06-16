@@ -1,1 +1,1 @@
-# password-generator
+Gerador randômico de senhas.
